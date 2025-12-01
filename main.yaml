@@ -306,8 +306,9 @@
       hide-icon-on-map: true
       counter: .user-defined-split()
       notes: |
-        Follow these .link([Detailed IST Instructions in the simulator]https://ist.pistonite.app/-/pastebin.com/raw/jZad6fEC) or .link([these in the powerpoint]https://docs.google.com/presentation/d/1PKrCyJG7wkZUabP6RQw0Iwd2RtmcHOzV8M8dsRv4MbE/edit?usp=sharing)
+        Follow these .link([Detailed IST Instructions in the simulator]ist.pistonite.app/github/Mickystam521/hundo-new/main/ist) or .link([these in the powerpoint]https://docs.google.com/presentation/d/1PKrCyJG7wkZUabP6RQw0Iwd2RtmcHOzV8M8dsRv4MbE/edit?usp=sharing)
 
+  - Do NOT reload until WMC is done.
 - Hateno / Farosh:
 
   - _Npc<Bolson + Hudson>:
@@ -634,7 +635,7 @@
             color: white
           - pop
       counter: .user-defined-split()
-      notes: Follow these .link([Detailed WMC Instructions from line 178 onwards]https://ist.pistonite.app/-/pastebin.com/raw/jZad6fEC)
+      notes: Follow these .link([Detailed WMC Instructions from line 178 onwards]ist.pistonite.app/github/Mickystam521/hundo-new/main/ist)
 
   - Eat speedfood:
       icon: cook
@@ -680,7 +681,7 @@
   - _Warp::TravelMedallion<-3331.95,-2297.17>:
       text: SAVE and close game
       counter: .user-defined-split()
-      notes: This removes your broken slots and re-enables Ravali's Gale. You will load back at H55.
+      notes: This removes your broken slots and re-enables Ravioli's Gale. You will load back at H55.
       icon: calamity
       hide-icon-on-map: true
 

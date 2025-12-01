@@ -2825,7 +2825,7 @@
   - .dir(.S)
   - _Tower::Ridgeland:
       notes: Equip ancient axe + wooden shield to avoid lightning
-      comment: 35.73%
+      comment: 35.64% (35.20% if DLC is installed)
 
   - .dir(W)
   - _Korok::R15:
@@ -3884,7 +3884,7 @@
 
   - .gale(GALE 2) + .dir(W)
   - _Tower::Lake:
-      comment: 51.69%
+      comment: 51.69% (51.01% if DLC)
 
   - .dir(SW)
   - _Korok::L48:
@@ -4443,7 +4443,7 @@
 
   - .dir(<N)
   - _Tower::DuelingPeaks:
-      comment: 62.44%
+      comment: 62.44% (61.61%)
 
 - Faron:
 
@@ -4997,7 +4997,7 @@
   - _Warp::Shrine::DahHesho:
       comment: WARP Tarrey Town
       color: gray
-      notes: Map 70.05%
+      notes: Map 70.05% (69.11%)
 
   - .dir(N>)
   - _Npc<Hudson>:
@@ -5969,7 +5969,7 @@
 
   - .dir(S>)
   - _Tower::Lanayru:
-      comment: 85.93%
+      comment: 85.93% (84.75%)
 
   - .dir(N>>) down
   - _Discover<Inogo Bridge>:
@@ -6272,7 +6272,7 @@
   - .dir(W.)
   - _Npc::SheikaFemale<Impa>:
       coord: [1772.71, 229.43, 984.31]
-      comment: Map 89.99%
+      comment: Map 89.99% (88.75%)
   - _Npc::SheikaFemale<Paya>:
       coord: [1772.71, 229.43, 984.31]
       notes: If she is not crying, then you missed some quest.
@@ -6705,7 +6705,7 @@
 
   - _Warp::Shrine::ShadaNaw:
       color: orange
-      comment: WARP (96.44%)
+      comment: WARP (96.44%/95.11%)
 
   - _Tod::Night:
       hide-icon-on-map: true
@@ -6879,7 +6879,7 @@
       hide-icon-on-map: true
 
   - _Warp::Shrine::DahHesho:
-      comment: WARP 99.66%
+      comment: WARP 99.66% (98.28%)
       color: darkgray
       notes: ".link([Missable Locations]https://drive.google.com/file/d/1hN-TJYfVUIlQGkuJYRkK4f0mCPJoIyxW/view). Also missable: Dining Hall, Gisa Crater."
 
@@ -6934,7 +6934,7 @@
       notes: Talk to Hudson again after the wedding
 
   - _Warp::Shrine::KeoRuug:
-      comment: WARP 99.83%
+      comment: WARP 99.83% (98.45%)
 
   - _Npc<Hestu>:
       icon: hestu
@@ -6962,7 +6962,7 @@
 
   - _Discover<Little Twin Bridge>:
       coord: [1714.18, 106.66, 2149.55]
-      notes: 100% map
+      notes: 100% map (98.61% with DLC)
 
   - .dir(NE)
   - Tame a horse:

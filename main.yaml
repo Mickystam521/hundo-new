@@ -581,9 +581,9 @@
             warp: true
 
   - Make sure your Claymore and shield are equipped:
-     icon: equipment
+      icon: equipment
   - Unequip bow:
-     icon: bow
+      icon: bow
   - _Material<Cold Darner>:
       comment: null
   - _Chest::Special<Great Eagle Bow>:

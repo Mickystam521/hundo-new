@@ -580,6 +580,10 @@
           - to: [-3565.625,-1817.375]
             warp: true
 
+  - Make sure your Claymore and shield are equipped
+     icon: equipment
+  - Unequip bow
+     icon: bow
   - _Material<Cold Darner>:
       comment: null
   - _Chest::Special<Great Eagle Bow>:
@@ -617,7 +621,7 @@
             color: white
           - pop
       counter: .user-defined-split()
-      notes: Follow these .link([Detailed WMC Instructions from line 169 onwards]https://ist.pistonite.app/github/Mickystam521/hundo-new/main/ist.txt)
+      notes: Follow these .link([Detailed WMC Instructions from line 169 onwards]https://ist.pistonite.app/github/Mickystam521/hundo-new/main/ist.txt or .link([the same steps in the slides]https://docs.google.com/presentation/d/1-6e8Q39j7zekRpRPVtFtKec2DpZ7eCHcuMpAdwp56qo/edit?usp=drivesdk)
 
   - Eat speedfood:
       icon: cook

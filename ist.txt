@@ -149,29 +149,20 @@ eat hasty-simmered-fruit
 #Follow the route, up to the part where you drop the Slate
 !remove 3 screws 3 ancientcore 3 shafts
 get 5 apples
-eat 20 enduring-mushroom-skewer [slot=19]
-get 8 koroks
+get 12 koroks
 get bass
-save
-reload
-eat 10 enduring-mushroom-skewer [slot=19]
-get korokseed
-!remove 9 koroks
 get faroshhorn faroshscale faroshclaw 14 koroks
-!remove 3 koroks
-get 3 koroks
-!remove 19 koroks
+!remove 22 koroks
 get durian 6 bananas pumpkin 6 koroks
 equip royalclaymore
 equip firearrow
 get gale geb darner
 save-as autorito
 get potlid
+eat 21 enduring-mushroom-skewer
 !remove 4 lotus faroshhorn #cook them
 get hasty-simmered-fruit
-eat enduring-mushroom-skewer [slot=19]
-unpause
-!remove 9 koroks slate
+!remove 10 koroks slate
 ###########
 #WMC START#
 ###########

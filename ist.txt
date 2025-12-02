@@ -147,15 +147,12 @@ reload
 #complete the Bolson quest house thing
 eat hasty-simmered-fruit
 #Follow the route, up to the part where you drop the Slate
-!remove 3 screws 3 ancientcore 3 shafts
-get 5 apples
-get 12 koroks
-get bass
-get faroshhorn faroshscale faroshclaw 14 koroks
-!remove 22 koroks
-get durian 6 bananas pumpkin 6 koroks
+get 5 apples 32 Koroks bass faroshhorn faroshscale faroshclaw durian 6 bananas pumpkin
+!remove 22 koroks 3 screws 3 ancientcore 3 shafts
+equip forestdwellersbow
 equip royalclaymore
 equip firearrow
+unequip forestdwellersbow
 get gale darner geb
 ############
 #PREP START#
@@ -166,9 +163,6 @@ eat 21 enduring-mushroom-skewer #make sure you have exactly 41 meals
 !remove 4 lotus faroshhorn #cook them
 get hasty-simmered-fruit
 !remove 10 koroks slate
-###########
-#WMC START#
-###########
 #Sell and drop everything mentioned
 sell all rushroom all naydrasfang all hyrulebass all princess all honey all banana all acorn all beetle all fairy all lizalfostail all spring all apple all wood all lizalfostalon all lizalfoshorn all opal all shaft
 drop carrot all dinraalsfang all ancientcore

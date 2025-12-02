@@ -625,7 +625,7 @@
             color: white
           - pop
       counter: .user-defined-split()
-      notes: Follow these .link([Detailed WMC Instructions from line 169 onwards]https://ist.pistonite.app/github/Mickystam521/hundo-new/main/ist.txt or .link([the same steps in the slides]https://docs.google.com/presentation/d/1-6e8Q39j7zekRpRPVtFtKec2DpZ7eCHcuMpAdwp56qo/edit?usp=drivesdk)
+      notes: Follow these .link([Detailed WMC Instructions from line 169 onwards]https://ist.pistonite.app/github/Mickystam521/hundo-new/main/ist.txt) or .link([the same steps in the slides]https://docs.google.com/presentation/d/1-6e8Q39j7zekRpRPVtFtKec2DpZ7eCHcuMpAdwp56qo/edit?usp=drivesdk)
 
   - Eat speedfood:
       icon: cook

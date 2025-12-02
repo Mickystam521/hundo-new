@@ -156,23 +156,30 @@ get faroshhorn faroshscale faroshclaw 14 koroks
 get durian 6 bananas pumpkin 6 koroks
 equip royalclaymore
 equip firearrow
-get gale geb darner
+get gale darner geb
+############
+#PREP START#
+############
 save-as autorito
 get potlid
-eat 21 enduring-mushroom-skewer
+eat 21 enduring-mushroom-skewer #make sure you have exactly 41 meals
 !remove 4 lotus faroshhorn #cook them
 get hasty-simmered-fruit
 !remove 10 koroks slate
 ###########
 #WMC START#
 ###########
-drop dragonbonebokoclub forestdwellersbow falconbow #Make sure they don't despawn
 #Sell and drop everything mentioned
 sell all rushroom all naydrasfang all hyrulebass all princess all honey all banana all acorn all beetle all fairy all lizalfostail all spring all apple all wood all lizalfostalon all lizalfoshorn all opal all shaft
 drop carrot all dinraalsfang all ancientcore
 drop darner durian pumpkin claw
 #Eat all food apart from last 2
 eat all enduring-mushroom-skewer all sneaky-fried-wild-greens all but 1 roastedenduracarrot all but 1 hasty-simmered-fruit
+drop dragonbonebokoclub
+###########
+#WMC START#
+###########
+drop forestdwellersbow falconbow #Make sure they don't despawn
 #Drop in any order, then pick up in order
 drop royalclaymore potlid heartybass faroshscale
 get royalclaymore heartybass faroshscale potlid

@@ -600,9 +600,8 @@
       hide-icon-on-map: true
       notes: Ensure you have exactly 40 meals. Unpause and pause after eating.
   
-  - Drop 9 Koroks:
+  - Drop 10 Koroks:
      icon: korok
-     comment: Image says to drop 10, just drop 9
      notes: .link([Prompt Entanglement Inputs to hold korok seeds]https://imgur.com/SM1lRFn)
  
   - Drop Slate:
@@ -618,7 +617,7 @@
             color: white
           - pop
       counter: .user-defined-split()
-      notes: Follow these .link([Detailed WMC Instructions from line 178 onwards]https://ist.pistonite.app/github/Mickystam521/hundo-new/main/ist.txt)
+      notes: Follow these .link([Detailed WMC Instructions from line 169 onwards]https://ist.pistonite.app/github/Mickystam521/hundo-new/main/ist.txt)
 
   - Eat speedfood:
       icon: cook

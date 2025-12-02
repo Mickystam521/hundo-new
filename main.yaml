@@ -582,8 +582,12 @@
 
   - Make sure your Claymore and shield are equipped:
       icon: equipment
+      hide-icon-on-map: true
+      comment: null
   - Unequip bow:
       icon: bow
+      hide-icon-on-map: true
+      comment: null
   - _Material<Cold Darner>:
       comment: null
   - _Chest::Special<Great Eagle Bow>:

@@ -580,9 +580,9 @@
           - to: [-3565.625,-1817.375]
             warp: true
 
-  - Make sure your Claymore and shield are equipped
+  - Make sure your Claymore and shield are equipped:
      icon: equipment
-  - Unequip bow
+  - Unequip bow:
      icon: bow
   - _Material<Cold Darner>:
       comment: null

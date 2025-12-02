@@ -402,25 +402,7 @@
   - _Korok::D53
 
   - .dir(W) + .dir(S)
-
-  - Eat 20 stamina food:
-      icon: material
-      comment: All of page 2
-      notes: Make sure to have 39 food after that
-  
-  - Save and reload
-  
-  - Eat 10 stamina food:
-      icon: material
-      comment: After the greens in page 2
-      notes: You should have 40 food
-
   - _Korok::D58
-
-  - Drop 9 Koroks:
-     icon: korok
-     comment: Drop Bass if you can't hold the koroks, pick it up again afterwards
-     notes: (.link([Prompt Entanglement Inputs to hold korok seeds]https://imgur.com/SM1lRFn))
 
   - .dir(S>)
   - _Korok::D57
@@ -612,8 +594,9 @@
       icon: cook
       comment: 4 Lotus + Farosh Horn
 
-  - Eat 1 stamina food:
+  - Eat 21 stamina food:
       icon: cook
+      comment: 
       hide-icon-on-map: true
       notes: Ensure you have exactly 40 meals. Unpause and pause after eating.
   

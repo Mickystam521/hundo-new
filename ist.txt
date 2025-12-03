@@ -17,9 +17,6 @@ unpause
 ###########
 #IST START#
 ###########
-equip forestdwellersbow
-equip royalclaymore
-equip hylianshield
 #First slot breaking
 #Do smuggle glitch. Hold zapshroom, razorshroom, honey, wood, nightshade. Smuggle-hold them and talk to shop. Sell these items (except honey which should be at 0.)
 !remove 2 zapshroom 2 razorshroom honey 2 wood 2 nightshade
@@ -43,6 +40,9 @@ get 2 durian spring 2 sunshroom 2 pepper 2 hylianshroom
 dnp 3 screw enduracarrot rushroom
 dnp 4 hyrulebass 2 lotus dinraalsfang naydrasfang
 dnp 2 lizalfostalon lizalfoshorn shaft
+equip forestdwellersbow
+equip royalclaymore
+equip hylianshield
 save
 #If you didn't do DSTA, then go to your switch clock and go to present time (the time after your plateau autosave)
 reload sor

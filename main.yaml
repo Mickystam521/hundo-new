@@ -584,7 +584,7 @@
       icon: equipment
       hide-icon-on-map: true
       comment: null
-  - Unequip bow:
+  - Unequip bow, equip Fire Arrows:
       icon: bow
       hide-icon-on-map: true
       comment: null
